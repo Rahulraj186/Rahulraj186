@@ -3,8 +3,9 @@
 ### Full Stack Developer
 
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,nodejs,express,postgres,aws,docker)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,nodejs,express,postgres,aws,docker" width="400" />
+</p>
 <!--
 **Rahulraj186/Rahulraj186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
