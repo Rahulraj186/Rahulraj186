@@ -1,6 +1,6 @@
 ## Hi, My name is Rahul Raj👋
 
-Full Stack Developer
+## Full Stack Developer
 
 ## 🚀 Tech Stack
 
