@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, My name is Rahul Raj👋
+
+Full Stack Developer
+
+Skills
+TypeScriptJavaScriptTailwindCSSReactNextJsNodeJSExpressPostgreSQLAmazon Web ServicesDocker
 
 <!--
 **Rahulraj186/Rahulraj186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
