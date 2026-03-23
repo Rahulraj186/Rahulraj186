@@ -4,10 +4,10 @@
 ## Skills
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,nodejs,express,postgres,aws,docker" 
-    width="400"
-    title="TypeScript • JavaScript • Tailwind CSS • React • Next.js • Node.js • Express • PostgreSQL • AWS • Docker"
-  />
+  <img src="https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,nodejs,express,postgres,aws,docker" width="400" />
+</p>
+
+<p align="center">
+  TypeScript • JavaScript • React • Next.js • Node.js • PostgreSQL • AWS • Docker
 </p>
 
