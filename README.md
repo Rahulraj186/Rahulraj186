@@ -2,8 +2,9 @@
 
 Full Stack Developer
 
-Skills
-TypeScriptJavaScriptTailwindCSSReactNextJsNodeJSExpressPostgreSQLAmazon Web ServicesDocker
+## 🚀 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,nodejs,express,postgres,aws,docker)
 
 <!--
 **Rahulraj186/Rahulraj186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
