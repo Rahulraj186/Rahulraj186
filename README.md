@@ -2,7 +2,6 @@
 
 ## Full Stack Developer
 
-## 🚀 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,nodejs,express,postgres,aws,docker)
 
