@@ -1,6 +1,6 @@
 ## Hi, My name is Rahul Raj👋
 
-# Full Stack Developer
+### Full Stack Developer
 
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,nodejs,express,postgres,aws,docker)
